@@ -2,11 +2,12 @@
 
 Hello! I'm **Ashhad Ahmed Kamran**, an AI engineer passionate about developing cutting-edge **AI/ML/DL models** and deploying them on various platforms. I am constantly learning and improving my skills in **data science**, **machine learning**, **deep learning**, and **software engineering**. I specialize in solving real-world problems with data-driven approaches and delivering impactful solutions.
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashhad-a-kamran" alt="ashhad-a-kamran" /></a> </p>
+
 ## Skills 🚀
 
 - **Programming Languages**: 
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   
 - **Libraries & Frameworks**:
   - ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -25,13 +26,6 @@ Hello! I'm **Ashhad Ahmed Kamran**, an AI engineer passionate about developing c
   - ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
   - ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-- **Databases**:
-  - ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-  - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-- **Deployment**:
-  - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 ## Projects 💡
 
 ### 1. **Music Recommendation App 🎶**
@@ -42,22 +36,14 @@ Hello! I'm **Ashhad Ahmed Kamran**, an AI engineer passionate about developing c
    - **Description**: A hand gesture-based interactive game using Pygame, OpenCV, and MediaPipe where players control a spaceship to avoid obstacles and shoot projectiles.
    - **Skills**: Python, Pygame, OpenCV, MediaPipe, Game Development
 
-### 3. **AI/ML Model Development & Deployment 🔧**
-   - **Description**: Developing and deploying AI/ML models on any platform. Experience with integrating databases and cloud services like Azure.
-   - **Skills**: Python, ML/DL, Azure, Git, GitHub, Cloud Deployment
-
-### 4. **Data Scraper & Email Automation 🕸️**
-   - **Description**: A web scraper that scrapes data from websites, inserts it into a SQL Server database, and sends automated emails via Gmail SMTP.
-   - **Skills**: Python, Web Scraping, SQL, SMTP, Automation
-
-### 5. **Team Selection Prediction Model 🏆**
-   - **Description**: Developed a model using PyTorch to predict the top 150 teams with the highest chances of winning, analyzing team data to maximize the accuracy of predictions.
-   - **Skills**: Python, PyTorch, Data Science, Machine Learning
-
-### 6. **Text Classification System 📱**
+### 3. **Text Classification System 📱**
    - **Description**: A system that classifies text messages offering or requesting transport, extracting relevant details such as departure time, location, number of seats, and price.
    - **Skills**: Python, NLP, Machine Learning, Text Classification
 
-## Contact Me 📬
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ashhadakamran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashhadakamran" height="30" width="40" /></a>
+<a href="https://kaggle.com/ashhadahmedkamran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashhadahmedkamran" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ashhad_a_kamran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashhad_a_kamran" height="30" width="40" /></a>
+</p>
 
-Feel free to reach out via [email or LinkedIn link] if you'd like to collaborate or have any questions. I’m always open to exciting opportunities and discussions about AI and data science!
