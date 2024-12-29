@@ -2,7 +2,7 @@
 
 Hello! I'm **Ashhad Ahmed Kamran**, an AI engineer passionate about developing cutting-edge **AI/ML/DL models** and deploying them on various platforms. I am constantly learning and improving my skills in **data science**, **machine learning**, **deep learning**, and **software engineering**. I specialize in solving real-world problems with data-driven approaches and delivering impactful solutions.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashhad-a-kamran" alt="ashhad-a-kamran" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashhad-a-kamran&label=Profile%20views&color=0e75b6&style=flat" alt="ashhad-a-kamran" /> </p>
 
 ## Skills 🚀
 
