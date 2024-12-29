@@ -1,28 +1,63 @@
-<h1 align="center">Hi 👋, I'm Ashhad Ahmed Kamran</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Ashhad Ahmed Kamran - AI Engineer 👨‍💻
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashhad-a-kamran&label=Profile%20views&color=0e75b6&style=flat" alt="ashhad-a-kamran" /> </p>
+Hello! I'm **Ashhad Ahmed Kamran**, an AI engineer passionate about developing cutting-edge **AI/ML/DL models** and deploying them on various platforms. I am constantly learning and improving my skills in **data science**, **machine learning**, **deep learning**, and **software engineering**. I specialize in solving real-world problems with data-driven approaches and delivering impactful solutions.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashhad-a-kamran" alt="ashhad-a-kamran" /></a> </p>
+## Skills 🚀
 
-- 🔭 I’m currently working on **Autonomous Sales Bot**
+- **Programming Languages**: 
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  
+- **Libraries & Frameworks**:
+  - ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  - ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  - ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  - ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  - ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B00?style=for-the-badge&logo=streamlit&logoColor=white)
+  - ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+  - ![Pygame](https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=pygame&logoColor=white)
+  - ![MediaPipe](https://img.shields.io/badge/MediaPipe-0295F6?style=for-the-badge&logo=mediapipe&logoColor=white)
+  
+- **Tools**: 
+  - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  - ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  - ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-- 🌱 I’m currently learning **Data Analysis and Deep learning**
+- **Databases**:
+  - ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+  - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- 📫 How to reach me **ash.ahm170@gmail.com**
+- **Deployment**:
+  - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashhadakamran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashhadakamran" height="30" width="40" /></a>
-<a href="https://kaggle.com/ashhadahmedkamran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashhadahmedkamran" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashhad_a_kamran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashhad_a_kamran" height="30" width="40" /></a>
-</p>
+## Projects 💡
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 1. **Music Recommendation App 🎶**
+   - **Description**: A recommendation system that uses libraries such as Streamlit, librosa, numpy, pandas, sklearn, and pickle to recommend music based on user preferences.
+   - **Skills**: Python, Streamlit, Machine Learning, Data Processing
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashhad-a-kamran&show_icons=true&locale=en&layout=compact" alt="ashhad-a-kamran" /></p>
+### 2. **Interactive Gesture Game 🎮**
+   - **Description**: A hand gesture-based interactive game using Pygame, OpenCV, and MediaPipe where players control a spaceship to avoid obstacles and shoot projectiles.
+   - **Skills**: Python, Pygame, OpenCV, MediaPipe, Game Development
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashhad-a-kamran&show_icons=true&locale=en" alt="ashhad-a-kamran" /></p>
+### 3. **AI/ML Model Development & Deployment 🔧**
+   - **Description**: Developing and deploying AI/ML models on any platform. Experience with integrating databases and cloud services like Azure.
+   - **Skills**: Python, ML/DL, Azure, Git, GitHub, Cloud Deployment
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashhad-a-kamran&" alt="ashhad-a-kamran" /></p>
+### 4. **Data Scraper & Email Automation 🕸️**
+   - **Description**: A web scraper that scrapes data from websites, inserts it into a SQL Server database, and sends automated emails via Gmail SMTP.
+   - **Skills**: Python, Web Scraping, SQL, SMTP, Automation
+
+### 5. **Team Selection Prediction Model 🏆**
+   - **Description**: Developed a model using PyTorch to predict the top 150 teams with the highest chances of winning, analyzing team data to maximize the accuracy of predictions.
+   - **Skills**: Python, PyTorch, Data Science, Machine Learning
+
+### 6. **Text Classification System 📱**
+   - **Description**: A system that classifies text messages offering or requesting transport, extracting relevant details such as departure time, location, number of seats, and price.
+   - **Skills**: Python, NLP, Machine Learning, Text Classification
+
+## Contact Me 📬
+
+Feel free to reach out via [email or LinkedIn link] if you'd like to collaborate or have any questions. I’m always open to exciting opportunities and discussions about AI and data science!
