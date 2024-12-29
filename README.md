@@ -58,7 +58,7 @@
 
 ###
 
-<h5 align="left">This project implements a Retrieval-Augmented Generation (RAG) model using multiple technologies to build an AI-powered chatbot capable of answering customer inquiries. The bot integrates Google Generative AI for embeddings and responses, FAISS for efficient vector-based document storage and retrieval, and Groq for optimized inference. The chatbot is powered by a custom prompt template that processes user queries and provides accurate and contextually relevant answers based on stored knowledge from documents and databases. The project leverages Azure Cosmos DB to store and manage document embeddings, while dynamically generating responses based on retrieved context.</h5>
+<p align="left">This project implements a Retrieval-Augmented Generation (RAG) model using multiple technologies to build an AI-powered chatbot capable of answering customer inquiries. The bot integrates Google Generative AI for embeddings and responses, FAISS for efficient vector-based document storage and retrieval, and Groq for optimized inference. The chatbot is powered by a custom prompt template that processes user queries and provides accurate and contextually relevant answers based on stored knowledge from documents and databases. The project leverages Azure Cosmos DB to store and manage document embeddings, while dynamically generating responses based on retrieved context.</p>
 
 ###
 
@@ -66,7 +66,7 @@
 
 ###
 
-<h5 align="left">This Flask application is a simple translation tool that uses the Microsoft Translator API. It allows users to input text and select a target language for translation. Upon submitting the form, the application makes a POST request to the Microsoft Translator API to translate the provided text into the desired language. The translation result is then displayed to the user on a separate results page.</h5>
+<p align="left">This Flask application is a simple translation tool that uses the Microsoft Translator API. It allows users to input text and select a target language for translation. Upon submitting the form, the application makes a POST request to the Microsoft Translator API to translate the provided text into the desired language. The translation result is then displayed to the user on a separate results page.</p>
 
 ###
 
@@ -74,7 +74,7 @@
 
 ###
 
-<h5 align="left">A recommendation system that uses libraries such as Streamlit, librosa, numpy, pandas, sklearn, and pickle to recommend music based on user preferences.<br>Skills: Python, Streamlit, Machine Learning, Data Processing</h5>
+<p align="left">A recommendation system that uses libraries such as Streamlit, librosa, numpy, pandas, sklearn, and pickle to recommend music based on user preferences.<br>Skills: Python, Streamlit, Machine Learning, Data Processing</p>
 
 ###
 
@@ -82,7 +82,7 @@
 
 ###
 
-<h5 align="left">A hand gesture-based interactive game using Pygame, OpenCV, and MediaPipe where players control a spaceship to avoid obstacles and shoot projectiles.<br>Skills: Python, Pygame, OpenCV, MediaPipe, Game Development</h5>
+<p align="left">A hand gesture-based interactive game using Pygame, OpenCV, and MediaPipe where players control a spaceship to avoid obstacles and shoot projectiles.<br>Skills: Python, Pygame, OpenCV, MediaPipe, Game Development</p>
 
 ###
 
@@ -90,7 +90,7 @@
 
 ###
 
-<h5 align="left">A system that classifies text messages offering or requesting transport, extracting relevant details such as departure time, location, number of seats, and price.<br>Skills: Python, NLP, Machine Learning, Text Classification</h5>
+<p align="left">A system that classifies text messages offering or requesting transport, extracting relevant details such as departure time, location, number of seats, and price.<br>Skills: Python, NLP, Machine Learning, Text Classification</p>
 
 ###
 
