@@ -2,11 +2,19 @@
 
 ###
 
-<p align="left">Hello! I'm Ashhad Ahmed Kamran, an AI engineer passionate about developing cutting-edge AI/ML/DL models and deploying them on various platforms. I am constantly learning and improving my skills in data science, machine learning, deep learning, and software engineering. I specialize in solving real-world problems with data-driven approaches and delivering impactful solutions.</p>
+<p align="left">Hello! I'm Ashhad Ahmed Kamran, an AI engineer passionate about developing cutting-edge AI/ML/DL models and deploying them on various platforms. I am constantly learning and improving my skills in data science, machine learning, deep learning, and software engineering.</p>
 
 ###
 
-<div align="center">
+<p align="left">I also devote myself to student societies and communities. I became a Beta [Microsoft Learn Student Ambassador](https://mvp.microsoft.com/en-US/studentambassadors/profile/830f1531-cbfe-44bf-9b2e-8c574d333f8d) in Sept. 2023. I also started [DevBiradri](https://github.com/DevBiradri), a platform for events and hackathons in tech, with my two colleagues.</p>
+
+###
+
+<h2 align="left">Tech Stack</h2>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
@@ -36,12 +44,16 @@
 
 ###
 
-<div align="center">
-  <a href="https://discord.com/users/472811554958475266" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
+<h2 align="left">Socials</h2>
+
+###
+
+<div align="left">
   <a href="https://www.linkedin.com/in/ashhadakamran/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/472811554958475266" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://stackoverflow.com/users/24602594/ashhad-ahmed-kamran" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
