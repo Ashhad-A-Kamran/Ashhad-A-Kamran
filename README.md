@@ -70,7 +70,9 @@ I also devote myself to student societies and communities. I became a Beta [Micr
 
 ###
 
-<p align="left">This project implements a Retrieval-Augmented Generation (RAG) model using multiple technologies to build an AI-powered chatbot capable of answering customer inquiries. The bot integrates Google Generative AI for embeddings and responses, FAISS for efficient vector-based document storage and retrieval, and Groq for optimized inference. The chatbot is powered by a custom prompt template that processes user queries and provides accurate and contextually relevant answers based on stored knowledge from documents and databases. The project leverages Azure Cosmos DB to store and manage document embeddings, while dynamically generating responses based on retrieved context.</p>
+<p align="left">This project implements a Retrieval-Augmented Generation (RAG) model using multiple technologies to build an AI-powered chatbot capable of answering customer inquiries. The bot integrates Google Generative AI for embeddings and responses, FAISS for efficient vector-based document storage and retrieval, and Groq for optimized inference. The chatbot is powered by a custom prompt template that processes user queries and provides accurate and contextually relevant answers based on stored knowledge from documents and databases. The project leverages Azure Cosmos DB to store and manage document embeddings, while dynamically generating responses based on retrieved context.
+SKILLS: AI Chatbot Development, Generative AI, Document Retrieval, Optimized Inference, Database Management.
+</p>
 
 ###
 
