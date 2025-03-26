@@ -6,7 +6,7 @@
 
 ###
 
-I also devote myself to student societies and communities. I became a Beta [Microsoft Learn Student Ambassador](https://mvp.microsoft.com/en-US/studentambassadors/profile/830f1531-cbfe-44bf-9b2e-8c574d333f8d) in Sept. 2023. I also started [DevBiradri](https://github.com/DevBiradri), a platform for events and hackathons in tech, with my two colleagues.
+I also devote myself to student societies and communities. I became a Beta [Microsoft Learn Student Ambassador](https://mvp.microsoft.com/en-US/studentambassadors/profile/830f1531-cbfe-44bf-9b2e-8c574d333f8d) in Sept. 2023. Initiated [DevBiradri](https://github.com/DevBiradri), a platform for events and hackathons in tech, with two of my colleagues.
 
 ###
 
